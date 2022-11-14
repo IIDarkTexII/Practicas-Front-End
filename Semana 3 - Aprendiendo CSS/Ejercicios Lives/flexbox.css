@@ -1,0 +1,21 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.contenedor{
+    min-height: 400px;
+    background-color: rgb(56, 173, 126);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.elemento{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(43, 116, 226);
+    border-color: azure;
+    border-width: 10px;
+    border-style: double;
+    padding: 10px;
+}
