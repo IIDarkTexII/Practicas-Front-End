@@ -21,3 +21,18 @@
 <p> Tu público objetivo es tu grupo de clientes potenciales. Es el conjunto de personas que podría estar interesada en tu producto o servicio. Encontrar tu público objetivo es un paso fundamental para el marketing eficaz, el desarrollo de productos y la estrategia de negocios general. </p>
 
 <img src="https://github.com/IIDarkTexII/Practicas-Front-End/blob/main/Semana%201%20-%20Aprendiendo%20lo%20basico/P%C3%BAblico%20objetivo.jpg" width="50%" height= "50%">
+
+<p>En el flujo de programación, basándonos en el SDLC (Software Development Life Cycle) siempre es necesario empezar con el diseño de la solución antes de irnos directo a programarla, aquí se intenta crear un diseño UI/UX de acuerdo a los requerimientos solicitados</p>
+
+4. [Crea tu primer Wireframe UX](https://github.com/IIDarkTexII/Practicas-Front-End/blob/main/Semana%201%20-%20Aprendiendo%20lo%20basico/Wireframe%20Abogabot.jpg)
+<h2> ¿Qué son los Wireframes?</h2>
+<p> Los Wireframes son maquetas del diseño de una aplicación construídos de manera rápida, es el primer paso de planeación de flujos dentro de un sistema, siendo el proceso para construir de forma rápida nuestro diseño.</p>
+
+<img src="https://github.com/IIDarkTexII/Practicas-Front-End/blob/main/Semana%201%20-%20Aprendiendo%20lo%20basico/Wireframe%20Abogabot.jpg" width="50%" height= "50%">
+
+5. [Ahora el UI](https://github.com/IIDarkTexII/Practicas-Front-End/blob/main/Semana%201%20-%20Aprendiendo%20lo%20basico/UI%20Abogabot.png)
+<h2> ¿Qué es el diseño UI?</h2>
+<p> Diseño UI significa diseño de interfaces de usuario.
+Diseño UI se enfoca en crear capas de estilos visuales y estilos que van por encima de la estructura de contenido.</p>
+
+<img src="https://github.com/IIDarkTexII/Practicas-Front-End/blob/main/Semana%201%20-%20Aprendiendo%20lo%20basico/UI%20Abogabot.png" width="50%" height= "50%">
