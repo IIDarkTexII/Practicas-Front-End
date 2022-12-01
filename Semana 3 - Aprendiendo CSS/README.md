@@ -1,4 +1,4 @@
-# Segunda Semana
+# Tercera Semana
 
 <p> Empezamos a darle estilo a todas nuestras páginas </p>
 <p> CSS es el lenguaje de estilos utilizado para describir la presentación de documentos HTML <br> 
@@ -30,6 +30,9 @@ CSS describe como debe ser renderizado el elemento estructurado en la pantalla, 
 <p> En esta semana vimos como meterle estilos a nuestras páginas y hacer que tomen personalidad completa, en esta pequeña práctica se intenta darle estilo a una página de vacunación</p>
 
 <h3>Códigos</h3>
+<p> Se realizó: <br>
+-Maquetación del sitio con HTML <br>
+-Estilos con CSS</p>
 
 [Vacunación.html](https://github.com/IIDarkTexII/Practicas-Front-End/blob/main/Semana%203%20-%20Aprendiendo%20CSS/Ejercicio%20vacunaci%C3%B3n/vacunaci%C3%B3n.html)
 
