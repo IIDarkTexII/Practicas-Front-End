@@ -30,6 +30,6 @@
 
 [Práctica HTML Abogabot](https://github.com/IIDarkTexII/Practicas-Front-End/blob/main/Semana%202%20-%20Aprendiendo%20HTML/Ejercicio%20Abogabot%20HTML/Pr%C3%A1ctica%20HTML%20Abogabot.html)
 
-<img src="https://github.com/IIDarkTexII/Practicas-Front-End/blob/main/Semana%202%20-%20Aprendiendo%20HTML/IMG/ABOGABOT.png" width="50%" height= "50%"
+<img src="https://github.com/IIDarkTexII/Practicas-Front-End/blob/main/Semana%202%20-%20Aprendiendo%20HTML/IMG/ABOGABOT.png" width="50%" height= "50%">
 
-<img src="https://github.com/IIDarkTexII/Practicas-Front-End/blob/main/Semana%202%20-%20Aprendiendo%20HTML/IMG/ABOGABOT%202.png" width="50%" height= "50%"
+<img src="https://github.com/IIDarkTexII/Practicas-Front-End/blob/main/Semana%202%20-%20Aprendiendo%20HTML/IMG/ABOGABOT%202.png" width="50%" height= "50%">
