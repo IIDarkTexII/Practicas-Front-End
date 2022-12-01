@@ -2,7 +2,7 @@
 
 <p> Empezamos a darle funcionalidad a todas nuestras páginas </p>
 <p> JavaScript es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos, ​ basado en prototipos, imperativo, débilmente tipado y dinámico.</p>
-<img src="https://soyhorizonte.com/wp-content/uploads/2020/10/Javascript-by-SoyHorizonte.jpg" width="10%" height= "10%">
+<img src="https://soyhorizonte.com/wp-content/uploads/2020/10/Javascript-by-SoyHorizonte.jpg" width="40%" height= "40%">
 
 <h2> ¿Qué aprendí?</h2>
 <p> Esta semana vimos cosas básicas del lenguajes JavaScript </p>
@@ -30,10 +30,11 @@
 -Tiene un input de entrada, donde se meta el nombre del pokemón a buscar<br>
 -Toma ese input para consultar el API de pokeapi <br>
 -Muestra en pantalla los siguientes datos del pokemón ingresado:<br>
-    Nombre <br>
-    Imagen  <br>
-    Movimientos<br>
-</p>
+<ul>
+    <li>Nombre</li>
+    <li>Imagen</li>
+    <li>Movimientos</li>
+</ul>
 
 <h3>Códigos</h3>
 
@@ -42,3 +43,7 @@
 [Pokedex.css](https://github.com/IIDarkTexII/Practicas-Front-End/blob/main/Semana%204%20-%20Aprendiendo%20JS/Pr%C3%A1ctica%20Pokedex/pokedex.css)
 
 [Pokedex.js](https://github.com/IIDarkTexII/Practicas-Front-End/blob/main/Semana%204%20-%20Aprendiendo%20JS/Pr%C3%A1ctica%20Pokedex/pokedex.js)
+
+<img src="https://github.com/IIDarkTexII/Practicas-Front-End/blob/main/Semana%204%20-%20Aprendiendo%20JS/img/Pokedex.png" width="50%" height= "50%">
+
+<img src="https://github.com/IIDarkTexII/Practicas-Front-End/blob/main/Semana%204%20-%20Aprendiendo%20JS/img/pikachu.png" width="50%" height= "50%">
