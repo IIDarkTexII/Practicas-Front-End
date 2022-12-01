@@ -44,6 +44,6 @@
 
 [Pokedex.js](https://github.com/IIDarkTexII/Practicas-Front-End/blob/main/Semana%204%20-%20Aprendiendo%20JS/Pr%C3%A1ctica%20Pokedex/pokedex.js)
 
-<img src="https://github.com/IIDarkTexII/Practicas-Front-End/blob/main/Semana%204%20-%20Aprendiendo%20JS/img/Pokedex.png" width="50%" height= "50%">
+<img src="https://github.com/IIDarkTexII/Practicas-Front-End/blob/main/Semana%204%20-%20Aprendiendo%20JS/img/Pokedex.png" width="40%" height= "40%">
 
-<img src="https://github.com/IIDarkTexII/Practicas-Front-End/blob/main/Semana%204%20-%20Aprendiendo%20JS/img/pikachu.png" width="50%" height= "50%">
+<img src="https://github.com/IIDarkTexII/Practicas-Front-End/blob/main/Semana%204%20-%20Aprendiendo%20JS/img/pikachu.png" width="40%" height= "40%">
