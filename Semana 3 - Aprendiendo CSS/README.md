@@ -3,7 +3,7 @@
 <p> Empezamos a darle estilo a todas nuestras páginas </p>
 <p> CSS es el lenguaje de estilos utilizado para describir la presentación de documentos HTML <br> 
 CSS describe como debe ser renderizado el elemento estructurado en la pantalla, en papel, en el habla o en otros medios.</p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="30%" height= "30%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="10%" height= "10%">
 
 <h2> ¿Qué aprendí?</h2>
 <p> Esta semana vimos todo lo relacionado a aplicar estilos </p>
@@ -35,4 +35,4 @@ CSS describe como debe ser renderizado el elemento estructurado en la pantalla, 
 
 [Vacunación.css](https://github.com/IIDarkTexII/Practicas-Front-End/blob/main/Semana%203%20-%20Aprendiendo%20CSS/Ejercicio%20vacunaci%C3%B3n/vacunacion.css)
 
-<img src="https://github.com/IIDarkTexII/Practicas-Front-End/blob/main/Semana%203%20-%20Aprendiendo%20CSS/IMG/Vaccination.png" width="50%" height= "50%">
+<img src="https://github.com/IIDarkTexII/Practicas-Front-End/blob/main/Semana%203%20-%20Aprendiendo%20CSS/IMG/Vaccination.png" width="80%" height= "80%">
