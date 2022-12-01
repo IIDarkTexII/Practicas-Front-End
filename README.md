@@ -2,7 +2,7 @@
 
 Ejercicios realizados al aprender Front-End 👨‍💻
 
-<img src="https://media1.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" align="right" width="50%" height="50%">
+<img src="https://media1.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" align="right" width="50%" height="30%">
 
 1. [Semana-1 Aprendiendo lo básico 👀](https://github.com/IIDarkTexII/Practicas-Front-End/tree/main/Semana%201%20-%20Aprendiendo%20lo%20basico)
 2. [Semana-2 Entendiendo la estructura HTML🖥](https://github.com/IIDarkTexII/Practicas-Front-End/tree/main/Semana%202%20-%20Aprendiendo%20HTML)
