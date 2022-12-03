@@ -1,6 +1,6 @@
 # Prácticas-Front-End.
 
-Ejercicios realizados al aprender Front-End 👨‍💻
+Ejercicios realizados al aprender Front-End 👨‍💻 con la organización Launch X de Microsoft
 
 <img src="https://media1.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" align="right" width="50%" height="30%">
 
